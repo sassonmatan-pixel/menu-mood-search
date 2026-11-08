@@ -1,0 +1,6 @@
+﻿streamlit
+chromadb
+onnxruntime
+tokenizers
+huggingface_hub
+numpy

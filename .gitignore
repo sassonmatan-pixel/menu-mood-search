@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.log
+*.err
+menu_db/
+.venv/
